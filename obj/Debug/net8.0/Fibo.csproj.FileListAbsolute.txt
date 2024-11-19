@@ -1,0 +1,14 @@
+C:\Users\Toshiba\Documents\Sites\Fibo\bin\Debug\net8.0\Fibo.exe
+C:\Users\Toshiba\Documents\Sites\Fibo\bin\Debug\net8.0\Fibo.deps.json
+C:\Users\Toshiba\Documents\Sites\Fibo\bin\Debug\net8.0\Fibo.runtimeconfig.json
+C:\Users\Toshiba\Documents\Sites\Fibo\bin\Debug\net8.0\Fibo.dll
+C:\Users\Toshiba\Documents\Sites\Fibo\bin\Debug\net8.0\Fibo.pdb
+C:\Users\Toshiba\Documents\Sites\Fibo\obj\Debug\net8.0\Fibo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Documents\Sites\Fibo\obj\Debug\net8.0\Fibo.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Documents\Sites\Fibo\obj\Debug\net8.0\Fibo.AssemblyInfo.cs
+C:\Users\Toshiba\Documents\Sites\Fibo\obj\Debug\net8.0\Fibo.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Documents\Sites\Fibo\obj\Debug\net8.0\Fibo.dll
+C:\Users\Toshiba\Documents\Sites\Fibo\obj\Debug\net8.0\refint\Fibo.dll
+C:\Users\Toshiba\Documents\Sites\Fibo\obj\Debug\net8.0\Fibo.pdb
+C:\Users\Toshiba\Documents\Sites\Fibo\obj\Debug\net8.0\Fibo.genruntimeconfig.cache
+C:\Users\Toshiba\Documents\Sites\Fibo\obj\Debug\net8.0\ref\Fibo.dll
